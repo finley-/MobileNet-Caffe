@@ -12,9 +12,9 @@ We provide a pretrained MobileNet model on ImageNet, which achieves slightly bet
 
 The top-1/5 accuracy rates by using single center crop (crop size: 224x224, image size: 256xN):
 
-Network|Top-1|Top-5|Download|Architecture
+Network|Top-1|Top-5|Model|Architecture
 :---:|:---:|:---:|:---:|:---:
-MobileNet| 70.81| 89.85| [caffemodel (16.2 MB)](https://drive.google.com/open?id=0B7ubpZO7HnlCVFFJQU5TQ0dkLUE)| [netscope](http://ethereon.github.io/netscope/#/gist/2883d142ae486d4237e50f392f32994e)
+MobileNet| 70.81| 89.85| mobilenet.caffemodel (16.2 MB)| [netscope](http://ethereon.github.io/netscope/#/gist/2883d142ae486d4237e50f392f32994e)
 
 
 ### Notes
